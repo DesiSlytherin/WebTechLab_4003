@@ -1,0 +1,38 @@
+body{
+    background-image: linear-gradient(to bottom right, rgb(255, 189, 146), rgb(97, 54, 5));
+    margin: 0;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}    
+.main
+{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.glass{
+    height: 70%;
+    width: 80%;
+    background-image: linear-gradient(to bottom right, rgb(250, 248, 246, 0.2), rgb(243, 243, 243, 0.2));
+    border-radius: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+
+.items
+{
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 100%;
+    flex-wrap: wrap;
+}
