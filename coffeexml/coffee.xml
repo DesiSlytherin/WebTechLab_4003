@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coffee-items>
+    <coffee>
+        <drink> Cafe Latte </drink> 
+        <size> Grande </size>
+        <type> Vegan </type>
+        <calories> 120 </calories>
+        
+    </coffee>
+    <coffee>
+        <drink> Cold Brew </drink> 
+        <size> Venti </size>
+        <type> regular </type>
+        <calories> 130 </calories>
+        
+    </coffee>
+    <coffee>
+        <drink> Cappucino </drink> 
+        <size> Small </size>
+        <type> regular </type>
+        <calories> 130 </calories>
+        
+    </coffee>
+    <coffee>
+        <drink> White cocoa </drink> 
+        <size> grande </size>
+        <type> vegan </type>
+        <calories> 250 </calories>
+        
+    </coffee>
+    <coffee>
+        <drink> Sweet Foam brew </drink> 
+        <size> venti </size>
+        <type> low cal </type>
+        <calories> 120 </calories>
+        
+    </coffee>    
+</coffee-items>
