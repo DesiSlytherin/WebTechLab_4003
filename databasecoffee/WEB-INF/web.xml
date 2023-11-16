@@ -1,0 +1,21 @@
+<web-app>
+    <servlet>
+      <servlet-name>StoreSpace</servlet-name>
+      <servlet-class>StoreSpace</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>StoreSpace</servlet-name>
+        <url-pattern>/storespace</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+      <servlet-name>AccessSpace</servlet-name>
+      <servlet-class>AccessSpace</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>AccessSpace</servlet-name>
+        <url-pattern>/accessspace</url-pattern>
+    </servlet-mapping>
+</web-app>
