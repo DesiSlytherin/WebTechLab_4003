@@ -1,0 +1,11 @@
+<web-app>
+  <servlet>
+    <servlet-name>SpaceForm</servlet-name>
+    <servlet-class>SpaceForm</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+      <servlet-name>SpaceForm</servlet-name>
+      <url-pattern>/spaceform</url-pattern>
+  </servlet-mapping>
+</web-app>
