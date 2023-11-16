@@ -1,0 +1,11 @@
+<web-app>
+    <servlet>
+      <servlet-name>SpaceServlet</servlet-name>
+      <servlet-class>SpaceServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>SpaceServlet</servlet-name>
+        <url-pattern>/spaceservlet</url-pattern>
+    </servlet-mapping>
+</web-app>
